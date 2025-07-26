@@ -1,5 +1,5 @@
 # HITBOX-V1
 
-i don't have the code sorry 
+I don't have the code, sorry.
 
-RIP
+  ' RIP ' 
